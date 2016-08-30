@@ -2,9 +2,12 @@
 //  ViewImageController.h
 //  ads
 //
-//  Created by n369 on 16/7/16.
-//  Copyright © 2016年 n369. All rights reserved.
+//  Created on 16/7/16.
+//  Created by xiaoR
+//  github地址:https://github.com/poos/SXImagePicker
+//  图片选择器 任何问题可以前往留言
 //
+//  推荐轮播图:https://github.com/poos/SXCycleView
 
 //选取图片后的展示图片页面
 #import <UIKit/UIKit.h>

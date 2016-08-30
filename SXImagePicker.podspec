@@ -2,8 +2,8 @@
 Pod::Spec.new do |s|
 
   s.name         = "SXImagePicker"
-  s.version      = "0.0.1"
-  s.summary      = "you can create a cycleview for you app"
+  s.version      = "0.0.2"
+  s.summary      = "choose a image and preview"
   #s.description  = <<-DESC
   #                  DESC
 

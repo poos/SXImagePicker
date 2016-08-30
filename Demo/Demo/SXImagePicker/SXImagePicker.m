@@ -2,9 +2,12 @@
 //  SXImagePicker.m
 //  Demo
 //
-//  Created by n369 on 16/8/30.
-//  Copyright © 2016年 SX. All rights reserved.
+//  Created on 16/7/16.
+//  Created by xiaoR
+//  github地址:https://github.com/poos/SXImagePicker
+//  图片选择器 任何问题可以前往留言
 //
+//  推荐轮播图:https://github.com/poos/SXCycleView
 
 #import "SXImagePicker.h"
 #import "ViewImageController.h"
